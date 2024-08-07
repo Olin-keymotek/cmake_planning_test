@@ -1,3 +1,0 @@
-E:/vscode_cmaketest/cmake_planning_test/build/CMakeFiles/planing_main.dir
-E:/vscode_cmaketest/cmake_planning_test/build/CMakeFiles/edit_cache.dir
-E:/vscode_cmaketest/cmake_planning_test/build/CMakeFiles/rebuild_cache.dir
